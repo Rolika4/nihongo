@@ -12,15 +12,15 @@ hide:
 
 ### 1.0.0 N5
 1. Дієслова
-  1. [Ввічливі форми](/nihongo/uk/n5/verbs/polite_form/)
+  1. [Ввічливі форми](./n5/verbs/polite_form.md)
   2. Простi форми
-    1. [Словникова форма](/nihongo/uk/n5/verbs/vocab_form/)
-    2. [た форма](/nihongo/uk/n5/verbs/ta_form/)
-    3. [ない форма](/nihongo/uk/n5/verbs/nai_form/)
-    4. [なかった форма](/nihongo/uk/n5/verbs/nakata_form/)
-    5. [Порівняння форм](/nihongo/uk/n5/verbs/comparison_form/)
-  3. [たい форма (бажання)](/nihongo/uk/n5/verbs/tai_form/)
-  3. [なければなりません форма (повинен)](/nihongo/uk/n5/verbs/nakereba_form/)
+    1. [Словникова форма](./n5/verbs/vocab_form.md)
+    2. [た форма](./n5/verbs/ta_form.md)
+    3. [ない форма](./n5/verbs/nai_form.md)
+    4. [なかった форма](./n5/verbs/nakata_form.md)
+    5. [Порівняння форм](./n5/verbs/comparison_form.md)
+  3. [たい форма (бажання)](./n5/verbs/tai_form.md)
+  3. [なければなりません форма (повинен)](./n5/verbs/nakereba_form.md)
 2. Прислівники
 3. Прикметники
 4. Слова

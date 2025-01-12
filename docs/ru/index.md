@@ -13,15 +13,15 @@ hide:
 ### N5
 
 1. Глаголы
-  1. [Вежливые формы](/nihongo/n5/verbs/polite_form/)
+  1. [Вежливые формы](./n5/verbs/polite_form.md)
   2. Простые формы:
-    1. [Словарная форма](/nihongo/n5/verbs/vocab_form/)
-    2. [た форма](/nihongo/n5/verbs/ta_form/)
-    3. [ない форма](/nihongo/n5/verbs/nai_form/)
-    4. [なかった форма](/nihongo/n5/verbs/nakata_form/)
-    5. [Сравнение форм](/nihongo/n5/verbs/comparison_form/)
-  3. [たい форма](/nihongo/n5/verbs/tai_form/)
-  3. [なければなりません форма(должен)](/nihongo/n5/verbs/nakereba_form/)
+    1. [Словарная форма](./n5/verbs/vocab_form.md)
+    2. [た форма](./n5/verbs/ta_form.md)
+    3. [ない форма](./n5/verbs/nai_form.md)
+    4. [なかった форма](./n5/verbs/nakata_form.md)
+    5. [Сравнение форм](./n5/verbs/comparison_form.md)
+  3. [たい форма](./n5/verbs/tai_form.md)
+  3. [なければなりません форма(должен)](./n5/verbs/nakereba_form.md)
 2. Наречия
 3. Прилагательные
 4. Слова
