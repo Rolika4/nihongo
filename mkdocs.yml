@@ -85,11 +85,11 @@ plugins:
       docs_structure: folder
       languages:
         - locale: ru
-          default: true
           name: Русский
           build: true
         - locale: uk
           name: Українська
+          default: true
           build: true
           nav_translations:
             Оглавление: Головна
