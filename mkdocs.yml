@@ -1,0 +1,116 @@
+site_name: 日本語
+repo_url: https://github.com/Rolika4/nihongo
+site_url: https://rolika4.github.io/nihongo
+edit_uri: ""
+site_description: Description
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - fancyboxmd
+  - admonition
+  - attr_list
+  - codehilite
+  - mdx_truly_sane_lists
+  - md_in_html
+  - meta
+  - toc:
+      permalink: ⚓︎
+  - tables
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+theme:
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  name: material
+  locale: uk
+  language_names:
+    uk: Українська
+    ru: Русский
+
+  palette:
+    - scheme: default
+      primary: light green
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - navigation.footer
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+
+extra_css:
+  - assets/css/custom.css 
+
+plugins:
+  - awesome-pages
+  - git-committers:
+      repository: rolika4/nihongo
+      enabled: !ENV [CI, false]
+  - inline-svg:
+      extension: ".inline.svg"
+  - meta-descriptions:
+      trim: true
+  - minify:
+      minify_html: true
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: ru
+          default: true
+          name: Русский
+          build: true
+        - locale: uk
+          name: Українська
+          build: true
+          nav_translations:
+            Оглавление: Головна
+            N5: N5 Рівень
+            Грамматика: Граматика
+            Глаголы: Дієслова
+            Наречия: Прислівники
+            Вежливые формы: Ввічливі форми
+            Словарная форма: Словникова форма
+            たい форма (желание): たい форма (бажання)
+            た форма: た форма
+            ない форма: ない форма
+            Сравнение форм: Порівняння форм
+
+nav:
+  - Оглавление: home.md
+  - N5:
+      - Грамматика:
+          - Глаголы:
+              - Вежливые формы: n5/verbs/polite_form.md
+              - Словарная форма: n5/verbs/vocab_form.md
+              - たい форма (желание): n5/verbs/tai_form.md
+              - た форма: n5/verbs/ta_form.md
+              - ない форма: n5/verbs/nai_form.md
+              - Сравнение форм: n5/verbs/simple_form.md
+      - Наречия:
+          - Сравнение форм: n5/adverbs/simple_form.md
