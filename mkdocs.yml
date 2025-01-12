@@ -29,6 +29,9 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 theme:
   logo: assets/logo.png
@@ -100,17 +103,23 @@ plugins:
             た форма: た форма
             ない форма: ない форма
             Сравнение форм: Порівняння форм
+            Простые формы: Прості форми
+            なければなりません форма(должен): なければなりません форма(повинен)
 
 nav:
   - Оглавление: index.md
   - N5:
       - Грамматика:
           - Глаголы:
-              - Вежливые формы: n5/verbs/polite_form.md
-              - Словарная форма: n5/verbs/vocab_form.md
+              - Вежливые формы: 
+                - Сравнение форм: n5/verbs/polite_form.md
+              - Простые формы:
+                - Словарная форма: n5/verbs/vocab_form.md
+                - た форма: n5/verbs/ta_form.md
+                - ない форма: n5/verbs/nai_form.md
+                - なかった форма: n5/verbs/nakata_form.md
+                - Сравнение форм: n5/verbs/comparison_form.md
               - たい форма (желание): n5/verbs/tai_form.md
-              - た форма: n5/verbs/ta_form.md
-              - ない форма: n5/verbs/nai_form.md
-              - Сравнение форм: n5/verbs/simple_form.md
+              - なければなりません форма(должен): n5/verbs/nakereba_form.md
       - Наречия:
           - Сравнение форм: n5/adverbs/simple_form.md
