@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://rolika4.github.io/nihongo/home/</loc>
+        <loc>https://rolika4.github.io/nihongo/</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/home/"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/uk/home/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/uk/"/>
     </url>
     <url>
         <loc>https://rolika4.github.io/nihongo/n5/verbs/nai_form/</loc>
@@ -50,11 +50,11 @@
         <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/uk/n5/verbs/vocab_form/"/>
     </url>
     <url>
-        <loc>https://rolika4.github.io/nihongo/uk/home/</loc>
+        <loc>https://rolika4.github.io/nihongo/uk/</loc>
         <lastmod>2025-01-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/uk/home/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/home/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/uk/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/"/>
     </url>
     <url>
         <loc>https://rolika4.github.io/nihongo/uk/n5/verbs/nai_form/</loc>
