@@ -21,7 +21,8 @@ hide:
     4. [なかった форма](./n5/verbs/nakata_form.md)
     5. [Сравнение форм](./n5/verbs/comparison_form.md)
   3. [たい форма](./n5/verbs/tai_form.md)
-  3. [なければなりません форма(должен)](./n5/verbs/nakereba_form.md)
+  4. [なければなりません форма(должен)](./n5/verbs/nakereba_form.md)
+  5. [Субстантивация с помощью ことが и ことを](./n5/verbs/koto.md)
 2. Наречия
 3. Прилагательные
 4. Слова

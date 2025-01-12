@@ -20,7 +20,8 @@ hide:
     4. [なかった форма](./n5/verbs/nakata_form.md)
     5. [Порівняння форм](./n5/verbs/comparison_form.md)
   3. [たい форма (бажання)](./n5/verbs/tai_form.md)
-  3. [なければなりません форма (повинен)](./n5/verbs/nakereba_form.md)
+  4. [なければなりません форма (повинен)](./n5/verbs/nakereba_form.md)
+  5. [Субстантивація за допомогою ことが и ことを](./n5/verbs/koto.md)
 2. Прислівники
 3. Прикметники
 4. Слова
