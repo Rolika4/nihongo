@@ -20,9 +20,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.highlight:
@@ -106,6 +103,7 @@ plugins:
             Простые формы: Прості форми
             なければなりません форма(должен): なければなりません форма(повинен)
             Субстантивация с помощью ことが и ことを: Субстантивація за допомогою ことが и ことを
+            Позиционные указатели: Позиційні покажчики
 
 nav:
   - Оглавление: index.md
@@ -123,3 +121,6 @@ nav:
               - たい форма (желание): n5/verbs/tai_form.md
               - なければなりません форма(должен): n5/verbs/nakereba_form.md
               - Субстантивация с помощью ことが и ことを: n5/verbs/koto.md
+              - Привет от Даши!: n5/verbs/vocab_form2.md
+          - Наречия:
+            - Позиционные указатели: n5/adverbs/positional_indicators.md
