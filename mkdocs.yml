@@ -35,9 +35,11 @@ theme:
   favicon: assets/favicon.png
   name: material
   locale: uk
+  locale: en
   language_names:
     uk: Українська
     ru: Русский
+    en: English
 
   palette:
     - scheme: default
@@ -103,8 +105,30 @@ plugins:
             Простые формы: Прості форми
             なければなりません форма(должен): なければなりません форма(повинен)
             Субстантивация с помощью ことが и ことを: Субстантивація за допомогою ことが и ことを
+            Прилагательные: Прикметники
             Позиционные указатели: Позиційні покажчики
             Цвета: Кольори
+        - locale: en
+          name: English
+          default: true
+          build: true
+          nav_translations:
+            Оглавление: Main
+            N5: N5 Level
+            Грамматика: Grammar
+            Глаголы: Verbs
+            Наречия: Adverbs
+            Вежливые формы: Polite Forms
+            Словарная форма: Dictionary Form
+            たい форма (желание): たい Form (Desire)
+            た форма: た Form
+            ない форма: ない Form
+            Сравнение форм: Comparison of Forms
+            Простые формы: Simple Forms
+            なければなりません форма(должен): なければなりません Form (Must)
+            Субстантивация с помощью ことが и ことを: Nominalization with ことが and ことを
+            Позиционные указатели: Positional Indicators
+            Цвета: Colors
             Существительные: Іменники
             Выбор из двух вариантов(どちょら): Вибір з двох варіантів(どちら)
             Выбрать из подмножества（どの): Вибір з підмножини（どの)
