@@ -249,6 +249,22 @@
         <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/n5/adverbs/positional_indicators/"/>
     </url>
     <url>
+        <loc>https://rolika4.github.io/nihongo/en/n5/nouns/choose_one/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rolika4.github.io/nihongo/en/n5/nouns/choose_one/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/ru/n5/nouns/choose_one/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/n5/nouns/choose_one/"/>
+    </url>
+    <url>
+        <loc>https://rolika4.github.io/nihongo/en/n5/nouns/choose_subset/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rolika4.github.io/nihongo/en/n5/nouns/choose_subset/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/ru/n5/nouns/choose_subset/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/n5/nouns/choose_subset/"/>
+    </url>
+    <url>
         <loc>https://rolika4.github.io/nihongo/en/n5/verbs/comparison_form/</loc>
         <lastmod>2025-01-19</lastmod>
         <changefreq>daily</changefreq>
@@ -319,21 +335,5 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://rolika4.github.io/nihongo/en/n5/verbs/vocab_form/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/ru/n5/verbs/vocab_form/"/>
         <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/n5/verbs/vocab_form/"/>
-    </url>
-    <url>
-        <loc>https://rolika4.github.io/nihongo/en/n5/nouns/choose_one/</loc>
-        <lastmod>2025-01-19</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rolika4.github.io/nihongo/en/n5/nouns/choose_one/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/ru/n5/nouns/choose_one/"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/n5/nouns/choose_one/"/>
-    </url>
-    <url>
-        <loc>https://rolika4.github.io/nihongo/en/n5/nouns/choose_subset/</loc>
-        <lastmod>2025-01-19</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rolika4.github.io/nihongo/en/n5/nouns/choose_subset/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://rolika4.github.io/nihongo/ru/n5/nouns/choose_subset/"/>
-        <xhtml:link rel="alternate" hreflang="uk" href="https://rolika4.github.io/nihongo/n5/nouns/choose_subset/"/>
     </url>
 </urlset>
