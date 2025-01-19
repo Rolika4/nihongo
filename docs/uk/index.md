@@ -23,6 +23,8 @@ hide:
   4. [なければなりません форма (повинен)](./n5/verbs/nakereba_form.md)
   5. [Субстантивація за допомогою ことが и ことを](./n5/verbs/koto.md)
 2. Прислівники
+  1. [Позиційні покажчики](./n5/adverbs/positional_indicators.md)
 3. Прикметники
+  1. [Кольори](./n5/adjective/colors.md)
 4. Слова
 5. Вирази

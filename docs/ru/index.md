@@ -26,5 +26,6 @@ hide:
 2. Наречия
   1. [Позиционные указатели](./n5/adverbs/positional_indicators.md)
 3. Прилагательные
+  1. [Цвета](./n5/adjective/colors.md)
 4. Слова
 5. Выражения
