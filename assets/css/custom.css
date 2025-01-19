@@ -1,8 +1,17 @@
 table {
-    font-size: 18px; /* Устанавливаем размер шрифта для таблиц */
+    font-size: 18px;
 }
 
 table th, table td {
-    font-size: 18px; /* Устанавливаем размер шрифта для ячеек таблиц */
+    font-size: 18px;
 }
 
+:root {
+    --block-width: 4rem;
+    --block-height: 3rem;
+  }
+
+  .color-block {
+    width: var(--block-width);
+    height: var(--block-height);
+  }
