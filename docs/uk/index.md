@@ -26,5 +26,9 @@ hide:
   1. [Позиційні покажчики](./n5/adverbs/positional_indicators.md)
 3. Прикметники
   1. [Кольори](./n5/adjective/colors.md)
-4. Слова
-5. Вирази
+4. Іменники
+  1. [Вибір з двох варіантів(どちら)](./n5/nouns/choose_one.md)
+  2. [Вибір з підмножини（どの)](./n5/nouns/choose_subset.md)
+5. Слова
+6. Вирази
+
